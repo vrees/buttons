@@ -1,0 +1,15 @@
+
+- Inkscape installieren
+- Kopie von 20230x_VORLAGE.svg erstellen und neuen Namen vergeben
+- Öffnen mit Inscape mit rechter Maustaste
+- Text ändern mit Doppelklick auf Text
+- Wenn fertig, alles Markieren mit Ctrl-A, dann Gruppieren miit rechter Maustaste
+- Bild 5 mal kopieren nach rechts, dann alles markieren
+- "Ausrichten und verteilen" Dialog öffnen über Menu -> Objekt
+- "Horizontal zentrieren" und "Objektmittelpunkte horizontal gleichmässig verteilen"
+- 5-er Block 3 mal kopieren und gleichmässig auf dem DIN-A3 Blatt verteilen
+- 2 Bilder löschen, da diese am Rand abgeschnitten sind
+- Drucken -> in Datei drucken
+- Ordner: /home/vrees/work/git-repos/buttons/pdf
+- Dateiname: 20230x....
+- git add, commit, push ...

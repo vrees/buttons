@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="202303_Kennen_wir_uns_ich_hoffe_nicht.svg">
+   sodipodi:docname="20230x_VORLAGE (weitere Kopie).svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.085965"
-     inkscape:cx="139.95843"
+     inkscape:cx="60.618652"
      inkscape:cy="188.27987"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="2560"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="2077"
+     inkscape:window-height="1165"
+     inkscape:window-x="2952"
+     inkscape:window-y="136"
+     inkscape:window-maximized="0"
      inkscape:snap-text-baseline="false" />
   <metadata
      id="metadata5">
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,25 +82,25 @@
     <circle
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3737"
-       cx="53.834393"
-       cy="43.989407"
+       cx="42.799332"
+       cy="47.033562"
        r="35" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:0.26458332, 0.79374995;stroke-dashoffset:0;stroke-opacity:1"
        id="path3737-8"
-       cx="53.834393"
-       cy="43.989407"
+       cx="42.799332"
+       cy="47.033562"
        r="27.5" />
     <circle
        id="path3737-5"
-       cx="53.834393"
-       cy="43.989407"
+       cx="42.799332"
+       cy="47.033562"
        r="32"
        style="display:inline;fill:#e91514;fill-opacity:1" />
     <g
        style="display:inline"
        id="g817"
-       transform="matrix(0.04186371,0,0,0.04186371,39.545104,20.095272)">
+       transform="matrix(0.04186371,0,0,0.04186371,28.510043,23.139427)">
       <g
          id="g829-3">
         <rect
@@ -121,34 +121,34 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="54.754536"
-       y="52.943069"
+       x="43.719475"
+       y="55.987225"
        id="text4645"><tspan
          sodipodi:role="line"
          id="tspan4649"
-         x="54.754536"
-         y="52.943069"
+         x="43.719475"
+         y="55.987225"
          style="font-size:4.93888903px">Kennen wir uns?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="54.496368"
-       y="60.604881"
+       x="43.461308"
+       y="63.649036"
        id="text4645-4-2"><tspan
-         y="60.604881"
-         x="54.496368"
+         y="63.649036"
+         x="43.461308"
          sodipodi:role="line"
          id="tspan4671-8">Ich hoffe nicht!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="32.915962"
-       y="-4.1737251"
+       x="21.880901"
+       y="-1.1295705"
        id="text249"><tspan
          sodipodi:role="line"
          id="tspan247"
-         x="32.915962"
-         y="5.2548766"
+         x="21.880901"
+         y="8.2990303"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';stroke-width:0.26458332" /></text>
   </g>
   <g
