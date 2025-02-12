@@ -1,6 +1,6 @@
 
 - Inkscape installieren
-- Kopie von 20230x_VORLAGE.svg erstellen und neuen Namen vergeben
+- Kopie von 2024_.svg erstellen und neuen Namen vergeben
 - Öffnen mit Inscape mit rechter Maustaste
 - Text ändern mit Doppelklick auf Text
 - Wenn fertig, alles Markieren mit Ctrl-A, dann Gruppieren miit rechter Maustaste
@@ -11,5 +11,5 @@
 - 2 Bilder löschen, da diese am Rand abgeschnitten sind
 - Drucken -> in Datei drucken
 - Ordner: /home/vrees/work/git-repos/buttons/pdf
-- Dateiname: 20230x....
-- git add, commit, push ...
+- Dateiname: /home/vrees/work/git-repos/buttons/pdf/2025/2025....pdf
+- git add, commit, push ... 
