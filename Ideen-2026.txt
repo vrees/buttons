@@ -1,18 +1,22 @@
-Hopfen und Malz, Gott erhalt's
-Bier formte diesen wunderschönen Körper
-Mein Lieblingstier ist der Zapfhahn
-Rettet die Erde, es ist der einzige Planet mit Bier
-Unser Blutgruppe: H-Positiv
-Mehr Hopfen, weniger Stoppen
-Kein Bier vor vier? Falsch
-Ich trinke nicht – ich forsche
-Leber sagt Nein – ich sag Ja
-Diskutier nicht – bring Bier
-Make Bier Great Again
-Deal: Du holst, ich drinke
-Ich bin Möbelpacker. Soll ich dir beim Ausziehen helfen?
-Was du verglühst kipp ich mir ins Müsli
-Ich war's nicht
+1: Hopfen und Malz, Gott erhalt's
+2: Bier formte diesen wunderschönen Körper
+3: Mein Lieblingstier ist der Zapfhahn
+4. Rettet die Erde, es ist der einzige Planet mit Bier
+5: Unser Blutgruppe: H-Positiv
+6: Mehr Hopfen, weniger Stoppen
+7: Kein Bier vor vier? Falsch
+8: Ich trinke nicht – ich forsche
+9: Leber sagt Nein – ich sag Ja
+10: Diskutier nicht – bring Bier
+11: Make Bier Great Again
+12: Deal: Du holst, ich drinke
+13: Ich bin Möbelpacker. Soll ich dir beim Ausziehen helfen?
+14: Was du verglühst kipp ich mir ins Müsli
+15: Ich war's nicht
+16: nein du bist nicht doof bloß spadam behirnt
+17: Grün bedeutet unreif!
+18: Wir arbeiten hart am Pegel
+19: Wir pfuschen besser als andere arbeiten
 
 
-
+/home/vrees/work/git-repos/buttons/pdf/2026/
