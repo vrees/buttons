@@ -3,7 +3,7 @@
 - Kopie von 2024_.svg erstellen und neuen Namen vergeben
 - Öffnen mit Inscape mit rechter Maustaste
 - Text ändern mit Doppelklick auf Text
-- Wenn fertig, alles Markieren mit Ctrl-A, dann Gruppieren miit rechter Maustaste
+- Wenn fertig, alles Markieren mit Ctrl-A, dann Gruppieren mit rechter Maustaste
 - Bild 5 mal kopieren nach rechts, dann alles markieren
 - "Ausrichten und verteilen" Dialog öffnen über Menu -> Objekt
 - "Horizontal zentrieren" und "Objektmittelpunkte horizontal gleichmässig verteilen"
